@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @centurionmars
 - 👀 I’m interested in code
 - 🌱 I’m currently learning html , css , php , wordpress &...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@centurionmars in web & social media
 
 <!---
