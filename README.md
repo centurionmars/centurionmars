@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @centurionmars
-- 👀 I’m interested in code
+- 👀 I'm a code and problem solving enthusiast
 - 🌱 I’m currently learning html, css ,JS,  php, wordpress &...
 - 📫 You can find me with ID ...@centurionmars in web & social media
 
